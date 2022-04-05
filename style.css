@@ -1,0 +1,30 @@
+html{
+    background-color: rgb(186, 186, 235);
+}
+h1{
+    background-color: rgb(113, 113, 235);
+    margin: auto;
+    width: 250px;
+}
+table {
+    background-color: rgb(247, 247, 151);
+    border: solid 5px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    margin: auto;
+}
+th{
+    padding: 20px;
+    border-bottom: solid 2px;
+    border-left: solid 2px;
+}
+td{
+    padding: 10px;
+    text-align: center;
+    border-bottom: solid 2px;
+    border-left: solid 2px;
+}
+tfoot{
+    text-align:center;
+    background-color: rgb(158, 158, 234);
+}
